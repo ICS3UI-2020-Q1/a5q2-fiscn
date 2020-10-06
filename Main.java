@@ -21,9 +21,10 @@ public class Main {
     int userNM = input.nextInt(); 
 
     //create loop for number print out 
-    for(int count = 1; count < userNM; count++) 
+    for(int count = 1; count < userNM; count++){
     //print out numbers to screen 
-    System.out.print(count + " ,"); 
+    System.out.print(count + " ,"); 7
+    } 
     System.out.print(" " + userNM); 
      
    
